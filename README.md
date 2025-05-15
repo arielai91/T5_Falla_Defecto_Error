@@ -1,4 +1,4 @@
-# Login con JavaScript (Node.js + SQLite)
+# Login con JavaScript
 
 ## Descripción
 
@@ -12,7 +12,3 @@ Sistema de inicio de sesión con 3 intentos. Demuestra:
 
 - Ariel Amaguaña
 - Anael Molina
-
-## Uso
-
-```bash
